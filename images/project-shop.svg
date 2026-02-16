@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <rect width="100%" height="100%" fill="#fff" rx="12" stroke="#fff0eb"/>
+  <g transform="translate(20,20)">
+    <rect x="0" y="0" width="360" height="120" rx="8" fill="#fff7f0" stroke="#ffe6d6"/>
+    <text x="180" y="70" font-size="18" text-anchor="middle" fill="#7c2d12">Shop Demo</text>
+  </g>
+</svg>
